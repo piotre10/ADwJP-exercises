@@ -1,0 +1,100 @@
+000
+CXUS55 KSEW 010930
+CF6SEA
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   SEATTLE-TACOMA WA AIRPORT
+                                          MONTH:     JUNE
+                                          YEAR:      2022
+                                          LATITUDE:   47 27 N
+                                          LONGITUDE: 122 18 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  71  53  62   2   3   0    T  0.0    0  6.0 12 360   M    M   9 _      16 340
+ 2  73  53  63   3   2   0 0.03  0.0    0  3.8 10  70   M    M   8 13     13  60
+ 3  62  53  58  -2   7   0 0.17  0.0    0  6.9 18 250   M    M   9 1      26 250
+ 4  68  54  61   1   4   0 0.27  0.0    0  5.5 15 230   M    M   9 1      19 220
+ 5  65  53  59  -1   6   0 0.56  0.0    0  9.1 23 210   M    M   9 1      30 210
+ 6  64  51  58  -3   7   0 0.00  0.0    0  6.1 13 220   M    M   7 _      16 220
+ 7  72  51  62   1   3   0    T  0.0    0  7.8 16 230   M    M   6 _      22 230
+ 8  70  56  63   2   2   0 0.00  0.0    0  6.3 12 260   M    M   8 _      16 270
+ 9  59  53  56  -5   9   0 1.10  0.0    0  4.5 12 150   M    M  10 1      17  60
+10  67  55  61   0   4   0 0.17  0.0    0  8.3 14 210   M    M   9 1      22 210
+11  69  54  62   1   3   0 0.01  0.0    0  7.5 15 200   M    M   7 1      21 200
+12  57  50  54  -7  11   0 0.01  0.0    0  7.6 18 220   M    M  10 1      28 210
+13  60  48  54  -8  11   0 0.11  0.0    0 14.0 24 210   M    M   9 18     33 200
+14  63  48  56  -6   9   0 0.01  0.0    0  6.9 17 210   M    M   9 1      23 210
+15  62  50  56  -6   9   0    T  0.0    0  3.7  9 240   M    M   8 _      13 240
+16  67  50  59  -3   6   0 0.01  0.0    0  6.3 13 230   M    M   7 1      19 200
+17  57  53  55  -7  10   0 0.16  0.0    0  8.1 15 340   M    M  10 1      21 340
+18  63  52  58  -4   7   0 0.01  0.0    0  9.8 15 200   M    M  10 _      20 190
+19  66  52  59  -3   6   0    T  0.0    0  6.7 13 210   M    M   9 _      18 210
+20  68  52  60  -3   5   0 0.00  0.0    0  4.8 12 270   M    M   8 _      16 280
+21  76  50  63   0   2   0 0.00  0.0    0  4.4 12 280   M    M   6 8      16 290
+22  68  56  62  -1   3   0 0.04  0.0    0  5.0 13  10   M    M   8 1      17 360
+23  71  51  61  -2   4   0 0.00  0.0    0  8.0 17 350   M    M   5 _      22 350
+24  77  52  65   2   0   0 0.00  0.0    0  9.3 17 350   M    M   2 _      25 360
+25  87  58  73   9   0   8 0.00  0.0    0 13.0 20  10   M    M   3 _      25  10
+26  90  67  79  15   0  14 0.00  0.0    0 12.1 20 350   M    M   1 _      26 350
+27  91  57  74  10   0   9 0.00  0.0    0  6.4 16 230   M    M   3 8      23 200
+28  65  56  61  -3   4   0 0.01  0.0    0  9.9 16 220   M    M   8 18     26 200
+29  69  54  62  -2   3   0    T  0.0    0  7.8 16 220   M    M   8 _      21 230
+30  75  54  65   1   0   0 0.00  0.0    0  8.6 15 300   M    M   4 _      22 280
+================================================================================
+SM 2072 1596       140  31  2.67  0.0    224.2          M      219
+================================================================================
+AV 69.1 53.2                               7.5 FASTST   M    M   7    MAX(MPH)
+                                 MISC ---->    24 210                 33 200
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   SEATTLE-TACOMA WA AIRPORT
+                                          MONTH:     JUNE
+                                          YEAR:      2022
+                                          LATITUDE:   47 27 N
+                                          LONGITUDE: 122 18 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 61.1   TOTAL FOR MONTH:   2.67    1 = FOG OR MIST
+DPTR FM NORMAL:  -0.9   DPTR FM NORMAL:    1.22    2 = FOG REDUCING VISIBILITY
+HIGHEST:    91 ON 27    GRTST 24HR  1.14 ON  9-10      TO 1/4 MILE OR LESS
+LOWEST:     48 ON 14,13                             3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:   0.0 INCH    5 = HAIL
+                        GRTST 24HR  0.0            6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  0            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  15
+MAX 90 OR ABOVE:   2    0.10 INCH OR MORE:   7
+MIN 32 OR BELOW:   0    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   1
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   140    CLEAR  (SCALE 0-3)   4
+DPTR FM NORMAL    22    PTCLDY (SCALE 4-7)  12
+TOTAL FM JUL 1  4854    CLOUDY (SCALE 8-10) 14
+DPTR FM NORMAL   479
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.    31
+DPTR FM NORMAL     2    [PRESSURE DATA]
+TOTAL FM JAN 1    31    HIGHEST SLP M ON M
+DPTR FM NORMAL    -8    LOWEST  SLP 29.61 ON  5
+
+[REMARKS]
+#FINAL-06-22#
