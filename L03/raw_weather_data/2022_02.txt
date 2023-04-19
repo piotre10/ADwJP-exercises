@@ -1,0 +1,99 @@
+000
+CXUS55 KSEW 020527
+CF6SEA
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6)
+
+                                          STATION:   SEATTLE-TACOMA WA AIRPORT
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2022
+                                          LATITUDE:   47 27 N
+                                          LONGITUDE: 122 18 W
+
+  TEMPERATURE IN F:       :PCPN:    SNOW:  WIND      :SUNSHINE: SKY     :PK WND
+================================================================================
+1   2   3   4   5  6A  6B    7    8   9   10  11  12  13   14  15   16   17  18
+                                     12Z  AVG MX 2MIN
+DY MAX MIN AVG DEP HDD CDD  WTR  SNW DPTH SPD SPD DIR MIN PSBL S-S WX    SPD DR
+================================================================================
+
+ 1  45  35  40  -4  25   0 0.00  0.0    0  6.5 13 210   M    M   8 _      17  30
+ 2  43  33  38  -6  27   0    T  0.0    0  7.2 15 200   M    M  10 1      19 230
+ 3  48  41  45   1  20   0 0.14  0.0    0  8.9 15 180   M    M  10 1      21 180
+ 4  48  40  44   0  21   0 0.03  0.0    0 12.1 26 200   M    M  10 1      35 190
+ 5  47  38  43  -1  22   0 0.04  0.0    0  5.9 14 190   M    M   8 1      20 190
+ 6  49  34  42  -2  23   0 0.00  0.0    0  4.6 12 140   M    M   7 12     16 160
+ 7  52  40  46   2  19   0    T  0.0    0 12.6 23 220   M    M   8 8      33 210
+ 8  47  41  44   0  21   0    T  0.0    0  3.9  9 140   M    M   9 _      14 140
+ 9  54  39  47   3  18   0    T  0.0    0  3.2  8 330   M    M   7 _      10 250
+10  49  42  46   2  19   0    T  0.0    0  6.6 15  10   M    M  10 12     20  10
+11  51  40  46   2  19   0 0.00  0.0    0 12.7 22  20   M    M   7 18     28  20
+12  56  36  46   2  19   0 0.00  0.0    0 11.6 18  20   M    M   1 1      23  20
+13  57  32  45   1  20   0 0.00  0.0    0  3.5 15 200   M    M   5 12     19 200
+14  48  41  45   1  20   0 0.10  0.0    0  7.8 21 220   M    M   9 13     32 230
+15  50  39  45   1  20   0    T  0.0    0  5.5 14 220   M    M  10 12     18 240
+16  51  38  45   1  20   0    T  0.0    0  4.2 10 130   M    M   7 1      18 120
+17  47  36  42  -2  23   0    T  0.0    0  6.5 15 220   M    M   9 1      20 220
+18  49  42  46   2  19   0 0.00  0.0    0  2.2  7 290   M    M   9 1      11 150
+19  46  40  43  -1  22   0 0.01  0.0    0 13.2 25 200   M    M  10 1      38 210
+20  48  36  42  -2  23   0 0.36    T    0  8.3 16 230   M    M  10 13     24 230
+21  42  29  36  -8  29   0 0.06    T    0 11.7 24 360   M    M   9 1      32 350
+22  35  27  31 -13  34   0    T    T    0 13.1 23  10   M    M   8 _      28  10
+23  36  23  30 -14  35   0 0.00  0.0    0  5.3 12 110   M    M   4 _      18 110
+24  40  27  34 -11  31   0    T    T    T  5.6 12 280   M    M   5 1      17  20
+25  48  26  37  -8  28   0 0.00  0.0    0  5.4 14 110   M    M   1 _      18 130
+26  50  34  42  -3  23   0 0.36  0.0    0  8.4 18 130   M    M  10 1      26 120
+27  50  42  46   1  19   0 1.25  0.0    0  9.9 20 210   M    M  10 1      30 200
+28  54  47  51   6  14   0 2.97  0.0    0 10.8 17 210   M    M  10 1      28 180
+================================================================================
+SM 1340 1018       633   0  5.32    T    217.2          M      221
+================================================================================
+AV 47.9 36.4                               7.8 FASTST   M    M   8    MAX(MPH)
+                                 MISC ---->    26 200                 38 210
+================================================================================
+NOTES:
+# LAST OF SEVERAL OCCURRENCES
+
+COLUMN 17 PEAK WIND IN M.P.H.
+
+PRELIMINARY LOCAL CLIMATOLOGICAL DATA (WS FORM: F-6) , PAGE 2
+
+                                          STATION:   SEATTLE-TACOMA WA AIRPORT
+                                          MONTH:     FEBRUARY
+                                          YEAR:      2022
+                                          LATITUDE:   47 27 N
+                                          LONGITUDE: 122 18 W
+
+[TEMPERATURE DATA]      [PRECIPITATION DATA]       SYMBOLS USED IN COLUMN 16
+
+AVERAGE MONTHLY: 42.1   TOTAL FOR MONTH:   5.32    1 = FOG OR MIST
+DPTR FM NORMAL:  -1.9   DPTR FM NORMAL:    1.56    2 = FOG REDUCING VISIBILITY
+HIGHEST:    57 ON 13    GRTST 24HR  3.31 ON 27-28      TO 1/4 MILE OR LESS
+LOWEST:     23 ON 23                               3 = THUNDER
+                        SNOW, ICE PELLETS, HAIL    4 = ICE PELLETS
+                        TOTAL MONTH:  T            5 = HAIL
+                        GRTST 24HR   T   ON 20-20  6 = FREEZING RAIN OR DRIZZLE
+                        GRTST DEPTH:  T            7 = DUSTSTORM OR SANDSTORM:
+                                                       VSBY 1/2 MILE OR LESS
+                                                   8 = SMOKE OR HAZE
+[NO. OF DAYS WITH]      [WEATHER - DAYS WITH]      9 = BLOWING SNOW
+                                                   X = TORNADO
+MAX 32 OR BELOW:   0    0.01 INCH OR MORE:  10
+MAX 90 OR ABOVE:   0    0.10 INCH OR MORE:   6
+MIN 32 OR BELOW:   6    0.50 INCH OR MORE:   2
+MIN  0 OR BELOW:   0    1.00 INCH OR MORE:   2
+
+[HDD (BASE 65) ]
+TOTAL THIS MO.   633    CLEAR  (SCALE 0-3)   2
+DPTR FM NORMAL    45    PTCLDY (SCALE 4-7)   8
+TOTAL FM JUL 1  3257    CLOUDY (SCALE 8-10) 18
+DPTR FM NORMAL   211
+
+[CDD (BASE 65) ]
+TOTAL THIS MO.     0
+DPTR FM NORMAL     0    [PRESSURE DATA]
+TOTAL FM JAN 1     0    HIGHEST SLP 30.65 ON  9
+DPTR FM NORMAL     0    LOWEST  SLP 29.85 ON 21
+
+[REMARKS]
+#FINAL-02-22#
+CORRECTED SNOW DATA
